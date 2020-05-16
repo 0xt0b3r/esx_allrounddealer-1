@@ -1,11 +1,11 @@
 Locales ['ger'] = {
   -- AllroundDealer
-  ['dealer_notification'] = 'Drücke ~INPUT_CONTEXT~ mit mit dem ~r~Dealer~s~ zu sprechen.',
-  ['dealer_title'] = 'Allrounddealer',
+  ['dealer_notification'] = 'Tekan ~INPUT_CONTEXT~ untuk menukarkan ~y~chip~s~.',
+  ['dealer_title'] = 'Casino',
   ['dealer_item'] = '$%s',
-  ['allrounddealer_notenough'] = 'Du hast nicht genug davon zum Verkaufen!',
-  ['allrounddeal_sold'] = 'Du hast ~b~%sx~s~ ~y~%s~s~ verkauft für ~g~$%s~s~',
+  ['allrounddealer_notenough'] = 'Anda tidak memiliki cukup chip untuk dijual!',
+  ['allrounddeal_sold'] = 'Anda menjual ~b~%sx~s~ ~y~%s~s~ untuk ~g~$%s~s~',
 
   -- blips
-  ['blip_allrounddealer'] = 'Allrounddealer',
+  ['blip_allrounddealer'] = 'Casino',
 }

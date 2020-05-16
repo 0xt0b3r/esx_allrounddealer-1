@@ -73,7 +73,7 @@ function OpenDrugShop()
 
 				-- menu properties
 				type = 'slider',
-				value = 1,
+				value = 100,
 				min = 1,
 				max = v.count
 			})

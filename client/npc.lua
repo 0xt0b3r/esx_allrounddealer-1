@@ -1,5 +1,5 @@
 local koordinaten = {
-    {1290.78, 3627.19, 32.04,"Drogendealer",400.77,0x23B88069,"g_m_y_ballasout_01"}
+    {1117.84, 220.04, -49.44,"Casino",400.77,0x23B88069,"g_m_y_ballasout_01"}
 }
 
 
